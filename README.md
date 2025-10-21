@@ -87,10 +87,7 @@ Esto iniciará el servidor y podrás interactuar con la aplicación.
 
 Si deseas contribuir a este proyecto, por favor realiza un **fork** del repositorio y crea un **pull request** con tus cambios.
 
-## Licencia
 
-Este proyecto está bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
-"""
 
 
 
